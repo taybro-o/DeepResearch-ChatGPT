@@ -190,7 +190,7 @@ def run_market_scan():
                 break
         except Exception as e:
             print(f"  Skipped {coin}: {e}")
-        time.sleep(25)
+        time.sleep(3)
     
     # After scanning is done, print the generated signals
     print("\n--- Generated Signals ---")
