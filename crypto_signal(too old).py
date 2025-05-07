@@ -11,7 +11,7 @@ import datetime
 import time
 
 # === CONFIG ===
-COIN_ID = 'ethereum'  # CoinGecko ID
+COIN_ID = 'bitcoin'  # CoinGecko ID
 VS_CURRENCY = 'usd'
 INTERVAL = '1h'
 WINDOW_SIZE = 24
